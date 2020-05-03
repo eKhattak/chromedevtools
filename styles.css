@@ -4,6 +4,12 @@ body {
   margin: 0;
 }
 
+a,
+a:link,
+a:visited {
+  color: white;
+  text-decoration: none;
+}
 nav {
   background-color: #9b59b6;
   padding: 5px 15px;
