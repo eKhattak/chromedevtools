@@ -7,8 +7,13 @@ body {
 a,
 a:link,
 a:visited {
-  color: white;
+  color: #3498db;
   text-decoration: none;
+}
+nav a,
+nav a:link,
+nav a:visited {
+  color: white;
 }
 nav {
   background-color: #9b59b6;
